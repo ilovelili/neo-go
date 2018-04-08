@@ -1,0 +1,10 @@
+hash: 3a31b9047d2e58157be790fba6c5bdc4163904ae54db7326c626d76c4441cdd6
+updated: 2018-04-08T18:42:39.697169685+09:00
+imports:
+- name: github.com/go-yaml/yaml
+  version: 5420a8b6744d3b0345ab293f6fcba19c978f1183
+- name: github.com/pkg/errors
+  version: 645ef00459ed84a119197bfb8d8205042c6df63d
+- name: github.com/urfave/cli
+  version: 8e01ec4cd3e2d84ab2fe90d8210528ffbb06d8ff
+testImports: []

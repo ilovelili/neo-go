@@ -1,0 +1,6 @@
+package: github.com/ilovelili/neo-go
+import:
+- package: github.com/go-yaml/yaml
+  version: v2.2.1
+- package: github.com/pkg/errors
+  version: v0.8.0
